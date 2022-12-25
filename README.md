@@ -1,1 +1,1 @@
-# Tanks
+# Tanks game made on Java using multithreading, GUI and a server-client.
